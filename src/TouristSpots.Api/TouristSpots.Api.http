@@ -1,0 +1,6 @@
+@TouristSpots.Api_HostAddress = http://localhost:5196
+
+GET {{TouristSpots.Api_HostAddress}}/api/saude
+Accept: application/json
+
+###

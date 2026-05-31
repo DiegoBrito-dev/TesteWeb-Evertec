@@ -1,0 +1,49 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# .NET tooling
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+artifacts/
+
+# Local database files
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Frontend dependencies/build
+node_modules/
+dist/
+build/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.cache
+.DS_Store
+Thumbs.db
+
+# Local environment files
+.env
+.env.*
+!.env.example
